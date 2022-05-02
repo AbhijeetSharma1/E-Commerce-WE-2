@@ -1,0 +1,138 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  body {
+    background-color: rgb(68, 186, 194);
+  }
+  /* Navbar related css */
+  
+  #links {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 1%;
+    box-shadow: 2px 2px 5px 5px rgb(255, 255, 255);
+  }
+  
+  #links > div {
+    display: flex;
+    list-style: none;
+  }
+  #links a {
+    text-decoration: none;
+    color: teal;
+    font-size: 30px;
+  }
+  
+  table,
+  td,
+  th {
+    border: 1px solid rgb(255, 0, 0);
+    text-align: left;
+  }
+  
+  table {
+    border-collapse: collapse;
+    width: 70%;
+    margin: auto;
+    margin-top: 50px;
+  }
+  
+  th,
+  td {
+    padding: 15px;
+  }
+  
+  tr > th {
+    background-color: rgb(55, 0, 253);
+    color: rgb(255, 255, 255);
+  }
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
